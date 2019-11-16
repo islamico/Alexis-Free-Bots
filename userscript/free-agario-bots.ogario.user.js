@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Free Agar.io Bots (OGARio Version)
+// @name         Alexis New Free Bots (OGARio Version)
 // @version      1.0.10
-// @description  Free open source agar.io bots with OGARio
-// @author       Nel & szymy (OGARio deobfuscated by ReF)
+// @description  New Free agario bots
+// @author       Alexis New Bots(OGARio Free bots)
 // @grant        GM_xmlhttpRequest
 // @run-at       document-start
 // @match        *://agar.io/*
